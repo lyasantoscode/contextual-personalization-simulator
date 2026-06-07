@@ -8,8 +8,6 @@ Este repositório contém um simulador Python/Streamlit para comparar Q-Learning
 pip install -r requirements.txt
 streamlit run app.py
 
+O segredo é esta linha sozinha depois de `streamlit run app.py`:
 
-```markdown
-## Descrição
-
-O simulador avalia agentes em cenários com usuários sintéticos probabilísticos, estados contextuais discretos, ações de configuração, aceitação inferida, correções, reversões, recompensa média e análise estatística pareada.
+```text
