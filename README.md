@@ -8,6 +8,14 @@ Este repositório contém um simulador Python/Streamlit para comparar Q-Learning
 pip install -r requirements.txt
 streamlit run app.py
 
-O segredo é esta linha sozinha depois de `streamlit run app.py`:
 
-```text
+
+Ou seja:
+
+1. Linha com ```bash  
+2. Linha `pip install -r requirements.txt`  
+3. Linha `streamlit run app.py`  
+4. **Enter**  
+5. Linha com ```  
+6. **Enter**  
+7. Linha `## Descrição`
