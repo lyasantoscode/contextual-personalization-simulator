@@ -1,9 +1,15 @@
-# Context-Aware Personalization Simulator
+# Simulador de Personalização Contextual
 
-This repository contains a Python/Streamlit simulator for comparing traditional Q-Learning and Somatic Q-Learning in context-aware personalization of screen brightness and audio volume.
+Este repositório contém um simulador Python/Streamlit para comparar Q-Learning tradicional e Q-Learning Somático em tarefas de personalização contextual de brilho e volume em dispositivos móveis.
 
-## Running
+## Execução
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+```markdown
+## Descrição
+
+O simulador avalia agentes em cenários com usuários sintéticos probabilísticos, estados contextuais discretos, ações de configuração, aceitação inferida, correções, reversões, recompensa média e análise estatística pareada.
