@@ -1,0 +1,11 @@
+passo,cenario,feature,luminosidade,local,periodo,atividade,lux,preferencia_brilho,preferencia_volume
+1,residencia_escuro_noite,brilho,escuro,residencia,noite,parado,8,baixo,
+2,residencia_escuro_noite,brilho,escuro,residencia,noite,parado,12,baixo,
+3,trabalho_moderado_dia,brilho,moderado,trabalho,dia,parado,180,medio,
+4,transporte_claro_dia,brilho,claro,transporte,dia,deslocamento,1200,alto,
+5,area_publica_claro_noite,brilho,claro,area_publica,noite,deslocamento,450,medio,
+6,reuniao_trabalho_volume,volume,moderado,trabalho,dia,reuniao,220,,baixo
+7,residencia_noite_volume,volume,moderado,residencia,noite,parado,95,,baixo
+8,transporte_dia_volume,volume,moderado,transporte,dia,deslocamento,300,,medio
+9,area_publica_volume,volume,claro,area_publica,dia,deslocamento,900,,baixo
+10,trabalho_dia_volume,volume,moderado,trabalho,dia,parado,180,,baixo
